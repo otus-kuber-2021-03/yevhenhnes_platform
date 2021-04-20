@@ -5,7 +5,7 @@ metadata:
 spec:
   serviceAccountName: default
   containers:
-    - name: server
+    - name: otus-frontend
       image: evheny/public:otus-frontend
       ports:
       - containerPort: 8080
