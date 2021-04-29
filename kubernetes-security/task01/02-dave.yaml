@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2021-04-29T22:23:32Z"
+  name: dave
+  namespace: default
+  resourceVersion: "9560"
+  uid: 05ac0953-8cd4-4c39-a8d6-d13b6cd7719e
+secrets:
+- name: dave-token-pgfsj
