@@ -5,10 +5,10 @@ metadata:
   namespace: dev
 subjects:
 
-- kind: User
-  name: "jane"
-  apiGroup: rbac.authorization.k8s.io
+- kind: ServiceAccount
+  name: jane
+  namespace: dev
 roleRef:
   kind: ClusterRole
-  name: dev-admin
+  name: admin
   apiGroup: rbac.authorization.k8s.io
