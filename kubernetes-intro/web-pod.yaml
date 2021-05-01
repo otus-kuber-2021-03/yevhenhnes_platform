@@ -1,4 +1,4 @@
-apiVersion: v1 # Версия API#
+apiVersion: v1 # Версия API
 kind: Pod # Объект, который создаем
 metadata:
   name: web # Название Pod
