@@ -1,2 +1,2 @@
 # yevhenhnes_platform
-yevhenhnes Platform repository
+Homework controllers
