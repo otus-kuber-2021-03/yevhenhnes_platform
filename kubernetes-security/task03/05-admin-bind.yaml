@@ -4,7 +4,7 @@ metadata:
   name: admin-dev
   namespace: dev
 subjects:
-subjects:
+
 - kind: User
   name: "jane"
   apiGroup: rbac.authorization.k8s.io
