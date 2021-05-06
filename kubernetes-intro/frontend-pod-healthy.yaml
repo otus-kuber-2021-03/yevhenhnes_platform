@@ -6,7 +6,7 @@ spec:
   serviceAccountName: default
   containers:
     - name: otus-frontend
-      image: evheny/public:otus-frontend
+      image: evheny/public:otus-frontend.v0.0.1
       ports:
       - containerPort: 8080
       env:
