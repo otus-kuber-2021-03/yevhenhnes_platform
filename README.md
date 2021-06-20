@@ -58,3 +58,6 @@
 6. Установлен CRDs from kubectl
 7. Создан ClusterIssuer 
 8. Устнановлен chartmuseum из helm3
+9. Установлен Cert-Manager
+10. Создан Issuer для Chartmuseum
+11. Установлен ChartMuseum
