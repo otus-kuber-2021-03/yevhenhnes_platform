@@ -61,3 +61,4 @@
 9. Установлен Cert-Manager
 10. Создан Issuer для Chartmuseum
 11. Установлен ChartMuseum
+12. Добвлен репо Harbor
