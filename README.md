@@ -62,3 +62,5 @@
 10. Создан Issuer для Chartmuseum
 11. Установлен ChartMuseum
 12. Добвлен репо Harbor
+13. Запущен harbor с использованием letsencrypt-stage
+14. Создан hipster-shop helm chart
