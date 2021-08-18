@@ -47,3 +47,25 @@
 7. Добавлен Ингресс Nginx
 8. Добавлен сервис Ингрес Nginx
 9. Добавлен Ингрес конфиг для web
+
+
+Седьмое ДЗ
+----------
+1. Создана учетка в GCP
+2. Установлена утилита gloud и подключена к GCP
+3. Установлен HELM 3 жобавлены у обновлены нужные репозитории.
+4. Создан  кластер в GKE
+5. Установлен cert-manager с помощью HELM3
+6. Установлен CRDs from kubectl
+7. Создан ClusterIssuer 
+8. Устнановлен chartmuseum из helm3
+9. Установлен Cert-Manager
+10. Создан Issuer для Chartmuseum
+11. Установлен ChartMuseum
+12. Добвлен репо Harbor
+13. Запущен harbor с использованием letsencrypt-stage
+14. Создан hipster-shop helm chart
+
+
+
+
